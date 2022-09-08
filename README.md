@@ -1,5 +1,4 @@
 # Flutter
-i do projects related to flutter 
-mostly practise project from youtube 
+This repository contains projects related flutter development 
 
 
